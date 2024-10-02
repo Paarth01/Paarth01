@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paarth Agarwal.
 - 👀 I’m interested in Coding, Sports, Music.
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently learning Web Development and Data Structures.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 You can reach me via email - agl.paarth2006@gmail.com
 - 😄 Pronouns: He, Him, His.

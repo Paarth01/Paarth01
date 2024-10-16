@@ -11,8 +11,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-![](https://media.giphy.com/media/LOEgEYZHyGbXY8KgA3/giphy.gif)
-
 <div display = "flex" justify-content = "space-evenly">
 <div align = "left">
   
@@ -30,7 +28,9 @@
 
 - ⚡ Fun fact **Honey never spoils-you could eat 3,000-year-old honey!**
 </div>
-
+<div align="center">
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media.giphy.com/media/LOEgEYZHyGbXY8KgA3/giphy.gif)"/>
+</div>
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

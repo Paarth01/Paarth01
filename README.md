@@ -15,7 +15,8 @@
 
 <div display = "flex" justify-content = "space-evenly">
 <div align = "left">
-- 🔭 I’m currently working on **Women Safety Emergency Response System.**
+  
+  - 🔭 I’m currently working on **Women Safety Emergency Response System.**
   
 - 🌱 I’m currently learning **Web Development and Data Structures.**
   

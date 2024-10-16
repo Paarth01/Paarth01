@@ -5,3 +5,4 @@
 - 📫 You can reach me via email - agl.paarth2006@gmail.com
 - 😄 Pronouns: He, Him, His.
 - ⚡ Fun fact: Honey never spoils-you could eat 3,000-year-old honey!
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)

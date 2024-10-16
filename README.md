@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on anything.
 - 📫 You can reach me via email - agl.paarth2006@gmail.com
 - 😄 Pronouns: He, Him, His.
-- ⚡ Fun fact: Honey never spoils-you could eat 3,000-year-old honey!
+- ⚡ Fun fact: Honey never spoils-you could eat 3,000-year-old honey! ![shinchan](https://media.giphy.com/media/eNvPo1OAXVpZsSIUXU/giphy.gif)
 
 ![shinchan](https://media.giphy.com/media/eNvPo1OAXVpZsSIUXU/giphy.gif)

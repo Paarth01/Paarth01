@@ -23,7 +23,7 @@
 
 <p align="left">- 💬 Ask me about Frontend, Dsa, C++, Python.</p>
 
-<p align="left">- 📫 How to reach me <a>agl.paarth2006@gmail.com</a></p>
+<p align="left">- 📫 How to reach me <a href="agl.paarth2006@gmail.com">agl.paarth2006@gmail.com</a></p>
 
 <p align="left">- ⚡ Fun fact Honey never spoils-you could eat 3,000-year-old honey!</p>
 

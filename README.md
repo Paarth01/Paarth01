@@ -11,6 +11,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<p align="left"><img src="[https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt=](https://media.giphy.com/media/LOEgEYZHyGbXY8KgA3/giphy.gif)"" /> </p>
+
 - 🔭 I’m currently working on **Women Safety Emergency Response System.**
 
 - 🌱 I’m currently learning **Web Development and Data Structures.**

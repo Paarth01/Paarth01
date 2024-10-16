@@ -5,6 +5,12 @@
 <h1 align="center">Yo👋, I'm Paarth Agarwal</h1>
 <h2 align="center">A passionate web developer and enthusiastic practitioner of C++ and Python development.</h2>
 
+<p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/{{Paarth01}}/contributions?format=svg" width="350" title="Includes public contributions"/>
+    </a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paarth01&label=Profile%20views&color=0e75b6&style=flat" alt="paarth01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paarth01" alt="paarth01" /></a> </p>

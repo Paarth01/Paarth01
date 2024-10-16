@@ -29,7 +29,7 @@
 - ⚡ Fun fact **Honey never spoils-you could eat 3,000-year-old honey!**
 </div>
 <div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media.giphy.com/media/LOEgEYZHyGbXY8KgA3/giphy.gif) width = "1rem" height = "1rem"/>
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media.giphy.com/media/LOEgEYZHyGbXY8KgA3/giphy.gif)" width = "1rem"  height = "1rem" />
 </div>
 </div>
 <h3 align="left">Connect with me:</h3>

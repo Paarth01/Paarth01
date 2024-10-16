@@ -15,19 +15,19 @@
 
 <div display = "flex" justify-content = "space-evenly">
 <div align = "left">
-<p align="left">- 🔭 I’m currently working on Women Safety Emergency Response System.</p>
+- 🔭 I’m currently working on **Women Safety Emergency Response System.**
   
-<p align="left">- 🌱 I’m currently learning Web Development and Data Structures.</p>
+- 🌱 I’m currently learning **Web Development and Data Structures.**
   
-<p align="left">- 👯 I’m looking to collaborate on Anything.</p>
+- 👯 I’m looking to collaborate on **Anything.**
 
-<p align="left">- 🤝 I’m looking for help with My Current Project.</p>
+- 🤝 I’m looking for help with **My Current Project.**
 
-<p align="left">- 💬 Ask me about Frontend, Dsa, C++, Python.</p>
+- 💬 Ask me about **Frontend, Dsa, C++, Python.**
 
-<p align="left">- 📫 How to reach me <a href="agl.paarth2006@gmail.com">agl.paarth2006@gmail.com</a></p>
+- 📫 How to reach me **agl.paarth2006@gmail.com**
 
-<p align="left">- ⚡ Fun fact Honey never spoils-you could eat 3,000-year-old honey!</p>
+- ⚡ Fun fact **Honey never spoils-you could eat 3,000-year-old honey!**
 </div>
 
 </div>

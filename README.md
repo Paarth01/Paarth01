@@ -7,4 +7,4 @@
 - ⚡ Fun fact: Honey never spoils-you could eat 3,000-year-old honey!
 ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 ![shinchan](https://media.giphy.com/media/jOV609ljhCAK1tba6u/giphy.gif)
-![shinchan](https://media.giphy.com/media/jOV609ljhCAK1tba6u/giphy.gif)
+![shinchan](https://media.giphy.com/media/eNvPo1OAXVpZsSIUXU/giphy.gif)

@@ -13,19 +13,19 @@
 
 ![](https://media.giphy.com/media/LOEgEYZHyGbXY8KgA3/giphy.gif)
 <div>
-<p align="left">- 🔭 I’m currently working on **Women Safety Emergency Response System.**</p>
+<p align="left">- 🔭 I’m currently working on Women Safety Emergency Response System.</p>
   
-<p align="left">- 🌱 I’m currently learning **Web Development and Data Structures.**</p>
+<p align="left">- 🌱 I’m currently learning Web Development and Data Structures.</p>
   
-<p align="left">- 👯 I’m looking to collaborate on **Anything.**</p>
+<p align="left">- 👯 I’m looking to collaborate on Anything.</p>
 
-<p align="left">- 🤝 I’m looking for help with **My Current Project.**</p>
+<p align="left">- 🤝 I’m looking for help with My Current Project.</p>
 
-<p align="left">- 💬 Ask me about **Frontend, Dsa, C++, Python.**</p>
+<p align="left">- 💬 Ask me about Frontend, Dsa, C++, Python.</p>
 
-<p align="left">- 📫 How to reach me **agl.paarth2006@gmail.com**</p>
+<p align="left">- 📫 How to reach me <a>agl.paarth2006@gmail.com</a></p>
 
-<p align="left">- ⚡ Fun fact **Honey never spoils-you could eat 3,000-year-old honey!**</p>
+<p align="left">- ⚡ Fun fact Honey never spoils-you could eat 3,000-year-old honey!</p>
 
 - 🌱 I’m currently learning **Web Development and Data Structures.**
 

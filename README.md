@@ -12,8 +12,20 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ![](https://media.giphy.com/media/LOEgEYZHyGbXY8KgA3/giphy.gif)
+<div>
+<p align="left">- 🔭 I’m currently working on **Women Safety Emergency Response System.**</p>
+  
+<p align="left">- 🌱 I’m currently learning **Web Development and Data Structures.**</p>
+  
+<p align="left">- 👯 I’m looking to collaborate on **Anything.**</p>
 
-- 🔭 I’m currently working on **Women Safety Emergency Response System.**
+<p align="left">- 🤝 I’m looking for help with **My Current Project.**</p>
+
+<p align="left">- 💬 Ask me about **Frontend, Dsa, C++, Python.**</p>
+
+<p align="left">- 📫 How to reach me **agl.paarth2006@gmail.com**</p>
+
+<p align="left">- ⚡ Fun fact **Honey never spoils-you could eat 3,000-year-old honey!**</p>
 
 - 🌱 I’m currently learning **Web Development and Data Structures.**
 
@@ -26,7 +38,7 @@
 - 📫 How to reach me **agl.paarth2006@gmail.com**
 
 - ⚡ Fun fact **Honey never spoils-you could eat 3,000-year-old honey!**
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/paarth_0101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paarth_0101" height="30" width="40" /></a>

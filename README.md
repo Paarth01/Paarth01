@@ -30,7 +30,6 @@
 <p align="left">- ⚡ Fun fact Honey never spoils-you could eat 3,000-year-old honey!</p>
 </div>
 
- ![](https://media.giphy.com/media/LOEgEYZHyGbXY8KgA3/giphy.gif)
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -48,7 +48,7 @@
 </div>
 </div>
 
-## 🌐 Socials:
+## 🌐 Socials :
 <p align="left">
 <a href="https://instagram.com/paarth_0101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paarth_0101" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@agl_paarth2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@agl_paarth2006" height="30" width="40" /></a>

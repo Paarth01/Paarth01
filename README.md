@@ -19,45 +19,6 @@
     </a>
 </p>
 
-version: 0.0.1
-achievements:
-  - achievement:
-      name: Shooting Star
-      icon: <image_url>
-      description: Awarded for starring our repository, make a wish!
-      triggers:
-        - trigger:
-            actor: author
-            action: star
-            condition: starred = true
-  - achievement:
-      name: Every Bit Counts
-      icon: <image_url>
-      description: No commit is too small!
-      triggers:
-        - trigger:
-            actor: author
-            action: commit
-            condition: count() >= 1
-  - achievement:
-      name: Pull Request Hero
-      icon: <image_url>
-      description: You're a PR hero, rock on!
-      triggers:
-        - trigger:
-            actor: author
-            action: pull_request
-            condition: merged = true
-  - achievement:
-      name: Closer
-      icon: <image_url>
-      description: Only closers get coffee!
-      triggers:
-        - trigger:
-            actor: author
-            action: issue
-            condition: closed = true
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paarth01&label=Profile%20views&color=0e75b6&style=flat" alt="paarth01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paarth01" alt="paarth01" /></a> </p>

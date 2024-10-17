@@ -61,6 +61,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paarth01&show_icons=true&locale=en&layout=compact" alt="paarth01" /></p>
 
 # 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paarth01&show_icons=true&locale=en" alt="paarth01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paarth01&show_icons=true&locale=en" 
+           alt="paarth01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paarth01&" alt="paarth01" /></p>

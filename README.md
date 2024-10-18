@@ -13,12 +13,6 @@
   </a>
 </p>
 
-<p>
-    <a href="https://community.vaunt.dev/board/Paarth01/achievements">
-        <img src="https://api.vaunt.dev/v1/github/entities/Paarth01/achievements?format=svg&limit=3" width="350" />
-    </a>
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paarth01&label=Profile%20views&color=0e75b6&style=flat" alt="paarth01" /> </p>
 
 ## 🏆 GitHub Trophies

@@ -20,10 +20,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<div display = "flex" justify-content = "space-evenly">
-<div align = "left">
-  
-  - 🔭 I’m currently working on **Women Safety Emergency Response System.**
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e8/d0/f1/e8d0f1794e2520ac2367c1d21c0966e9.gif">
+
+- 🔭 I’m currently working on **Women Safety Emergency Response System.**
   
 - 🌱 I’m currently learning **Web Development and Data Structures.**
   
@@ -36,10 +35,9 @@
 - 📫 How to reach me **agl.paarth2006@gmail.com**
 
 - ⚡ Fun fact **Honey never spoils-you could eat 3,000-year-old honey!**
-</div>
+
 <div align="center">
   <img src="https://media.giphy.com/media/LOEgEYZHyGbXY8KgA3/giphy.gif" width = "1rem"  height = "1rem" />
-</div>
 </div>
 
 ## 🌐 Socials :

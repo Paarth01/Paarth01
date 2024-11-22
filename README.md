@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="75%"/>
 </div>
 
-<h1>
+<h1 align="center">
   Hey! I am Paarth Agarwal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <h2 align="center">A passionate web developer and enthusiastic practitioner of C++ and Python development.</h2>

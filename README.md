@@ -6,10 +6,13 @@
   Hey! I am Paarth Agarwal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <h2 align="center">A passionate web developer and enthusiastic practitioner of C++ and Python development.</h2>
+
 <​script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript">
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="paarth-agarwal-1b595a288" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/paarth-agarwal-1b595a288?trk=profile-badge">Paarth Agarwal</a>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="paarth-agarwal-1b595a288" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/paarth-agarwal-1b595a288?trk=profile-badge">Paarth Agarwal
+</a>
 </div>              
 <​/script>
+  
 <p>
   <a href="https://vaunt.dev">
     <img src="https://api.vaunt.dev/v1/github/entities/Paarth01/contributions?format=svg" width="350" title="Includes public contributions"/>

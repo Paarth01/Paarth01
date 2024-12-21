@@ -12,8 +12,8 @@
     <img src="https://api.vaunt.dev/v1/github/entities/Paarth01/contributions?format=svg" width="350" title="Includes public contributions"/>
   </a>
 </p>
-<h2 align="center">Leetcode Info<h2>
-<p align="center">
+<h2>Leetcode Info<h2>
+<p>
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Paarth_agarwal?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paarth01&label=Profile%20views&color=0e75b6&style=flat" alt="paarth01" /> </p>

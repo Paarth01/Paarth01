@@ -6,9 +6,6 @@
   Hey! I am Paarth Agarwal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <h2 align="center">A passionate web developer and enthusiastic practitioner of C++ and Python development.</h2>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/paarth-agarwal-1b595a288?trk=profile-badge">Paarth Aagrwal</a></div>
   
 <p>
   <a href="https://vaunt.dev">

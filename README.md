@@ -13,10 +13,9 @@
   </a>
 </p>
 <p align="center">
-  
+  <h2 align="center">Leetcode Info<h2>
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Paarth_agarwal?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
-<h2 align="center">Leetcode Info<h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paarth01&label=Profile%20views&color=0e75b6&style=flat" alt="paarth01" /> </p>
 
 ## 🏆 GitHub Trophies

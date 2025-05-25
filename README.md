@@ -3,9 +3,9 @@
 </div>
 
 <h1 align="center">
-  Hey! I am Paarth Agarwal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  👋 Hi! I’m Paarth<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-<h2 align="center">A passionate web developer and enthusiastic practitioner of C++ and Python development.</h2>
+<h2 align="center">A passionate developer, tech explorer, and lifelong learner. I'm driven by curiosity and inspired by solving real-world problems through code.</h2>
 
 ## 🚀 About Me
 - 🧠 Computer Science student focused on **algorithms**, **AI**, and **software engineering**

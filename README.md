@@ -32,19 +32,27 @@
 
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e8/d0/f1/e8d0f1794e2520ac2367c1d21c0966e9.gif">
 
-- 🔭 I’m currently working on **Women Safety Emergency Response System.**
+### 🔭 I’m currently working on  
+- **Pac-Man Game** using advanced pathfinding algorithms (Dijkstra and A*) to enhance ghost AI and gameplay mechanics.  
+- **Virtual Mouse** controlled by AI hand gestures for intuitive and touchless computer interaction.
   
-- 🌱 I’m currently learning **Web Development and Data Structures.**
+### 🌱 I’m currently learning  
+Modern **Web Development** techniques and deepening my mastery of **Data Structures & Algorithms** to build efficient, scalable applications.
   
-- 👯 I’m looking to collaborate on **Anything.**
+### 👯 I’m looking to collaborate on  
+Innovative projects involving game development, AI/ML, and intuitive user interfaces—always open to new challenges and ideas.
 
-- 🤝 I’m looking for help with **My Current Project.**
+### 🤝 I’m looking for help with  
+Feedback on AI integration, user experience design, and project scalability to improve my current projects.
 
-- 💬 Ask me about **Frontend, Dsa, C++, Python.**
+### 💬 Ask me about  
+Game development, pathfinding algorithms, AI-powered gesture controls, frontend development, C++, Python, and data structures.
 
-- 📫 How to reach me **agl.paarth2006@gmail.com**
+### 📫 How to reach me  
+Email: [agl.paarth2006@gmail.com](mailto:agl.paarth2006@gmail.com)
 
-- ⚡ Fun fact **Honey never spoils-you could eat 3,000-year-old honey!**
+### ⚡ Fun fact  
+Honey never spoils — archaeologists have found edible honey over 3,000 years old!
 
 ## 🛠️ Current Projects
 

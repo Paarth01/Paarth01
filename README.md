@@ -6,6 +6,13 @@
   Hey! I am Paarth Agarwal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <h2 align="center">A passionate web developer and enthusiastic practitioner of C++ and Python development.</h2>
+
+## 🚀 About Me
+- 🧠 Computer Science student focused on **algorithms**, **AI**, and **software engineering**
+- 💻 Languages: **Python**, **C++**, **JavaScript**
+- 🌐 Tech Stack: **Pygame**, **Tkinter**, **React.js**, **Node.js**, **MongoDB**, **Firebase**
+- 🎯 Interests: **Game Development**, **AI/ML**, **Blockchain in Education**, **Open Source**
+
   
 <p>
   <a href="https://vaunt.dev">
@@ -38,6 +45,20 @@
 - 📫 How to reach me **agl.paarth2006@gmail.com**
 
 - ⚡ Fun fact **Honey never spoils-you could eat 3,000-year-old honey!**
+
+## 🛠️ Current Projects
+
+- 🔍 **Shortest Path Finder**  
+  Interactive tool using A* and Dijkstra’s algorithm with a Tkinter GUI and Matplotlib-based graph visualizations.
+
+- 👾 **Pac-Man Reimagined**  
+  A 2D Pac-Man clone in Pygame enhanced with custom power-ups, ghost AI, and pathfinding mechanics.
+
+- 🖱️ **Gesture-Controlled Mouse**  
+  AI-driven system that maps hand gestures to mouse actions (clicks, scrolls) using computer vision.
+
+- 🔗 **SkillChain** *(In Progress)*  
+  A blockchain-powered educational platform rewarding learners via smart contracts and verifiable credentials.
 
 <div align="center">
   <img src="https://media.giphy.com/media/LOEgEYZHyGbXY8KgA3/giphy.gif" width = "1rem"  height = "1rem" />

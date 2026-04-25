@@ -4,98 +4,81 @@ This document maps the exact functional execution flow traversing the compiler, 
 
 ```mermaid
 flowchart TD
-    %% Define Styles
+    %% ---------- STYLES ----------
     classDef ui fill:#e3f2fd,stroke:#1565c0,stroke-width:2px;
     classDef module fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px;
     classDef data fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,stroke-dasharray: 4 4;
     classDef decision fill:#fce4ec,stroke:#c2185b,stroke-width:2px;
 
-    %% Streamlit UI Intake
-    subgraph Frontend [Streamlit UI: app.py]
-        direction LR
-        UI_G(Input: Raw Grammar String)
-        UI_S(Input: Test Input String)
+    %% ---------- FRONTEND ----------
+    subgraph Frontend [Streamlit Interface]
+        UI_G[Grammar Input]
+        UI_S[Test String Input]
     end
-    UI_G ::: ui
-    UI_S ::: ui
+    UI_G:::ui
+    UI_S:::ui
 
-    %% Core Grammar Phase
-    subgraph Grammar Compilation Phase
-        direction TB
-        GC[grammar_core.py: Parse Rules]
-        TR1[transform.py: eliminate_left_recursion]
-        TR2[transform.py: left_factor]
-        
-        UI_G --> GC
-        GC -- Raw Grammar Object --> TR1
-        TR1 -- Grammar w/o LR --> TR2
-        TR2 -- Factored LL1 Ready Grammar --> D_G[(State: Transformed Grammar)]
-    end
-    GC ::: module
-    TR1 ::: module
-    TR2 ::: module
-    D_G ::: data
+    %% ---------- GRAMMAR PROCESSING ----------
+    subgraph Phase1 [Grammar Preprocessing]
+        GC[Parse Grammar Rules]
+        LR[Eliminate Left Recursion]
+        LF[Left Factoring]
 
-    %% Set & Table Construction
-    subgraph Predictive Table Generation Phase
-        direction TB
-        FF1[first_follow.py: compute_first]
-        FF2[first_follow.py: compute_follow]
-        PT[parse_table.py: generate_parse_table]
-        CON{parse_table.py: has_conflicts?}
-        
-        D_G --> FF1
-        D_G --> FF2
-        FF1 -- FIRST Sets Array --> FF2
-        FF1 --> PT
-        FF2 -- FOLLOW Sets Array --> PT
-        D_G --> PT
-        PT -- 2D Reference Matrix --> CON
+        UI_G --> GC --> LR --> LF --> G_OUT[(Transformed Grammar)]
     end
-    FF1 ::: module
-    FF2 ::: module
-    PT ::: module
-    CON ::: decision
+    GC:::module
+    LR:::module
+    LF:::module
+    G_OUT:::data
 
-    %% Lexical and Syntactic Analysis
-    subgraph Parsing & Syntax Verification Phase
-        direction TB
-        LEX[lexer.py: Auto-Tokenization]
-        PAR[parser_ll1.py: Predictive Execution Loop]
-        
-        UI_S --> LEX
-        LEX -- Token Array --> PAR
-        CON -- No Conflicts --> PAR
-        CON -- Yes Conflicts --> ERR([UI Warning: Not LL1 Compliant])
-        
-        FF2 -.->|Used natively for Panic-Mode Synchronization| PAR
-    end
-    LEX ::: module
-    PAR ::: module
-    ERR ::: ui
+    %% ---------- FIRST/FOLLOW + TABLE ----------
+    subgraph Phase2 [LL(1) Table Construction]
+        FIRST[Compute FIRST Sets]
+        FOLLOW[Compute FOLLOW Sets]
+        TABLE[Generate Parse Table]
+        CHECK{LL(1) Conflict?}
 
-    %% Final Outputs
-    subgraph Intermediate & Target Backend Phases
-        direction TB
-        VIS[visualize.py: generate_dot]
-        TAC[tac.py: generate_tac]
-        OPT[optimizer.py: optimize_tac]
-        ASM[target_codegen.py: generate_assembly]
-        
-        PAR -- Abstract Syntax Tree (RootNode) --> VIS
-        VIS -- .dot Graph String --> UI_TREE([Streamlit Output: Graphviz Visual Tree])
-        
-        PAR -- Validated Token Stream --> TAC
-        TAC -- Three Address Code string --> OPT
-        OPT -- Constant Validated TAC --> ASM
-        ASM -- Simulated MIPS/x86 logic --> UI_ASM([Streamlit Output: Target Architecture Code])
+        G_OUT --> FIRST --> FOLLOW
+        FIRST --> TABLE
+        FOLLOW --> TABLE
+        G_OUT --> TABLE
+        TABLE --> CHECK
     end
-    VIS ::: module
-    TAC ::: module
-    OPT ::: module
-    ASM ::: module
-    UI_TREE ::: ui
-    UI_ASM ::: ui
+    FIRST:::module
+    FOLLOW:::module
+    TABLE:::module
+    CHECK:::decision
+
+    %% ---------- PARSING ----------
+    subgraph Phase3 [Parsing Engine]
+        LEX[Lexical Analysis]
+        PARSER[LL(1) Parser Execution]
+
+        UI_S --> LEX --> PARSER
+        CHECK -- No --> PARSER
+        CHECK -- Yes --> ERR[Not LL(1) Grammar]
+        FOLLOW -.-> PARSER
+    end
+    LEX:::module
+    PARSER:::module
+    ERR:::ui
+
+    %% ---------- OUTPUT / BACKEND ----------
+    subgraph Phase4 [Intermediate & Target Code Generation]
+        AST[Generate AST Visualization]
+        TAC[Generate Three Address Code]
+        OPT[Optimize TAC]
+        ASM[Generate Target Code]
+
+        PARSER --> AST --> UI_TREE[Parse Tree Output]
+        PARSER --> TAC --> OPT --> ASM --> UI_ASM[Assembly Output]
+    end
+    AST:::module
+    TAC:::module
+    OPT:::module
+    ASM:::module
+    UI_TREE:::ui
+    UI_ASM:::ui
 ```
 
 ### Diagram Legend:

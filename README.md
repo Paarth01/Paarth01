@@ -19,7 +19,7 @@ flowchart TD
     UI_S:::ui
 
     %% ---------- GRAMMAR PROCESSING ----------
-subgraph Phase2 [LL(1) Table Construction]
+subgraph Phase2 [LL1 Table Construction]
         GC[Parse Grammar Rules]
         LR[Eliminate Left Recursion]
         LF[Left Factoring]

@@ -32,11 +32,11 @@ subgraph Phase2 [LL1 Table Construction]
     G_OUT:::data
 
     %% ---------- FIRST/FOLLOW + TABLE ----------
-    subgraph Phase2 [LL(1) Table Construction]
+subgraph Phase2 [LL1 Table Construction]
         FIRST[Compute FIRST Sets]
         FOLLOW[Compute FOLLOW Sets]
         TABLE[Generate Parse Table]
-        CHECK{LL(1) Conflict?}
+        CHECK{LL1 Conflict?}
 
         G_OUT --> FIRST --> FOLLOW
         FIRST --> TABLE
@@ -52,11 +52,11 @@ subgraph Phase2 [LL1 Table Construction]
     %% ---------- PARSING ----------
     subgraph Phase3 [Parsing Engine]
         LEX[Lexical Analysis]
-        PARSER[LL(1) Parser Execution]
+        PARSER[LL1 Parser Execution]
 
         UI_S --> LEX --> PARSER
         CHECK -- No --> PARSER
-        CHECK -- Yes --> ERR[Not LL(1) Grammar]
+        CHECK -- Yes --> ERR[Not LL1 Grammar]
         FOLLOW -.-> PARSER
     end
     LEX:::module

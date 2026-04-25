@@ -1,3 +1,99 @@
+flowchart TD
+    %% ---------- STYLES ----------
+    classDef ui fill:#e3f2fd,stroke:#1565c0,stroke-width:2px;
+    classDef module fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px;
+    classDef data fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,stroke-dasharray: 4 4;
+    classDef decision fill:#fce4ec,stroke:#c2185b,stroke-width:2px;
+
+    %% ---------- FRONTEND ----------
+    subgraph Frontend [Streamlit Interface]
+        UI_G[Grammar Input]
+        UI_S[Test String Input]
+    end
+    UI_G:::ui
+    UI_S:::ui
+
+    %% ---------- GRAMMAR PROCESSING ----------
+    subgraph Phase1 [Grammar Preprocessing]
+        GC[Parse Grammar Rules]
+        LR[Eliminate Left Recursion]
+        LF[Left Factoring]
+
+        UI_G --> GC --> LR --> LF --> G_OUT[(Transformed Grammar)]
+    end
+    GC:::module
+    LR:::module
+    LF:::module
+    G_OUT:::data
+
+    %% ---------- FIRST/FOLLOW + TABLE ----------
+    subgraph Phase2 [LL(1) Table Construction]
+        FIRST[Compute FIRST Sets]
+        FOLLOW[Compute FOLLOW Sets]
+        TABLE[Generate Parse Table]
+        CHECK{LL(1) Conflict?}
+
+        G_OUT --> FIRST --> FOLLOW
+        FIRST --> TABLE
+        FOLLOW --> TABLE
+        G_OUT --> TABLE
+        TABLE --> CHECK
+    end
+    FIRST:::module
+    FOLLOW:::module
+    TABLE:::module
+    CHECK:::decision
+
+    %% ---------- PARSING ----------
+    subgraph Phase3 [Parsing Engine]
+        LEX[Lexical Analysis]
+        PARSER[LL(1) Parser Execution]
+
+        UI_S --> LEX --> PARSER
+        CHECK -- No --> PARSER
+        CHECK -- Yes --> ERR[Not LL(1) Grammar]
+        FOLLOW -.-> PARSER
+    end
+    LEX:::module
+    PARSER:::module
+    ERR:::ui
+
+    %% ---------- OUTPUT / BACKEND ----------
+    subgraph Phase4 [Intermediate & Target Code Generation]
+        AST[Generate AST Visualization]
+        TAC[Generate Three Address Code]
+        OPT[Optimize TAC]
+        ASM[Generate Target Code]
+
+        PARSER --> AST --> UI_TREE[Parse Tree Output]
+        PARSER --> TAC --> OPT --> ASM --> UI_ASM[Assembly Output]
+    end
+    AST:::module
+    TAC:::module
+    OPT:::module
+    ASM:::module
+    UI_TREE:::ui
+    UI_ASM:::ui
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="75%"/>

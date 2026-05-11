@@ -3,9 +3,9 @@
 
 # Hey, I'm Paarth 👋
 
-Backend-focused software engineer who enjoys building things that are fast, reliable, and don't fall over at 3am. I work across the full stack but I'm most at home designing backend systems — APIs, distributed services, cloud infrastructure, the stuff users never see but always feel.
+Backend-focused software engineer who enjoys building things that are fast, reliable, and don't fall over at 3am. I work across the full stack but I'm most at home designing distributed systems, high-performance APIs, and cloud infrastructure — the stuff users never see but always feel.
 
-Currently open to **remote engineering roles** and **freelance projects**. If you're building something interesting, let's talk.
+Top 15 finisher in Graph-E-thon 3.0 (900+ teams). AWS Certified. Oracle OCI AI Certified. Currently open to **remote engineering roles** and **freelance projects**. If you're building something interesting, let's talk.
 
 ---
 
@@ -58,41 +58,68 @@ Currently open to **remote engineering roles** and **freelance projects**. If yo
 
 ## 🔨 Projects
 
-### 🔍 Shortest Path Visualizer
-Interactive pathfinding tool built with Python, A\* and Dijkstra's algorithm — visualized in real time using Tkinter and Matplotlib. Lets you place walls, set start/end nodes, and watch the algorithm work step by step.
+### 🌍 AeroGraphFed — Full-Stack Spatial Analytics Platform
+*Mar 2026 – Present*
+
+Automated spatial ETL pipeline ingesting **5+ GB of satellite GeoTIFF data** aggregated across **190+ countries**. Cached pre-compiled XGBoost model assets to cut inference latency to **<200ms**, enabling live ML simulations with instant UI feedback via Streamlit and Plotly.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Algorithms](https://img.shields.io/badge/A*%20%2F%20Dijkstra-grey?style=flat-square)
-→ **[View repo](#)**
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+→ **[View repo](https://github.com/Paarth01/AeroGraphFed)**
 
 ---
 
-### 🖱 Gesture-Controlled Mouse
-Computer vision system that replaces your mouse with hand gestures. Tracks finger positions via webcam and maps them to cursor movement, clicks, and scrolls — no hardware required.
+### 🔐 CRYPTXFER — Encrypted File Transfer System
+*Jan 2026 – Feb 2026*
+
+End-to-end encrypted file transfer with **AES-GCM 256-bit encryption**, SHA-256 key derivation, and 128-bit authentication tags. Concurrent async REST API backend handles simultaneous transfers with consistent low-latency throughput.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-→ **[View repo](#)**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![AES-GCM](https://img.shields.io/badge/AES--GCM%20256-bit-grey?style=flat-square)
+![Async](https://img.shields.io/badge/Async%20I%2FO-339933?style=flat-square&logo=python&logoColor=white)
+
+→ **[View repo](https://github.com/Paarth01/CRYPTXFER)**
 
 ---
 
-### 👾 Pac-Man Reimagined
-A Pygame-based Pac-Man clone rebuilt from scratch with custom ghost AI using A\* pathfinding. Added power-up mechanics, difficulty scaling, and a level editor.
+### 🚚 Smart Delivery Route Optimizer
+*Nov 2025 – Dec 2025*
+
+Full-stack TSP solver that computes optimal delivery routes across up to 15 nodes. FastAPI backend evaluates **163,800+ state transitions in under 2 seconds** using Bitmask DP, reducing complexity from O(n!) to O(2ⁿ · n²). Supports Euclidean and Haversine distance models.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-grey?style=flat-square&logo=python&logoColor=white)
-→ **[View repo](#)**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Bitmask%20DP%20%7C%20TSP-grey?style=flat-square)
+
+→ **[View repo](https://github.com/Paarth01/Smart-Delivery-Route-Optimizer)**
 
 ---
 
 ### 🔗 SkillChain *(In Progress)*
-A blockchain-powered platform for issuing and verifying educational credentials. Learners earn on-chain certificates via smart contracts — portable, tamper-proof, and employer-verifiable without a middleman.
+
+Blockchain-powered platform for issuing and verifying educational credentials. Learners earn on-chain certificates via smart contracts — portable, tamper-proof, and employer-verifiable without a middleman.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
+
 → **[View repo](#)** *(active development)*
+
+---
+
+## 🏆 Achievements
+
+| | |
+|---|---|
+| 🥇 | **Top 15 / 900+ teams** — Graph-E-thon 3.0 (2026), AI/ML & Blockchain track |
+| ☁️ | **AWS Certified Cloud Practitioner** — Amazon Web Services (Apr 2025) |
+| 🤖 | **OCI AI Foundations Associate** — Oracle University (Oct 2025) |
+| 🧩 | **LeetCode 200+ problems** — Top 20% ranking, Arrays / DP / Graphs / Trees |
 
 ---
 
@@ -124,6 +151,7 @@ A blockchain-powered platform for issuing and verifying educational credentials.
 
 ## 📈 Currently
 
+- B.Tech Computer Science @ Graphic Era University — graduating **May 2027** (GPA 8.25/10)
 - Deepening expertise in **distributed systems** and **system design** at scale
 - Exploring **MLOps** — model serving, monitoring, and productionizing ML pipelines
 - Building **SkillChain**, working toward a testnet deployment
@@ -134,9 +162,10 @@ A blockchain-powered platform for issuing and verifying educational credentials.
 
 If you have a project that needs a reliable backend, a complex API, or cloud infrastructure that actually works — reach out.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paarth-agarwal-1b595a288)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paarth-agl)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Paarth_agarwal/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agl.paarth2006@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paarth01)
 
 ---
 

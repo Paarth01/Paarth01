@@ -53,6 +53,9 @@ Top 15 finisher in Graph-E-thon 3.0 (900+ teams). AWS Certified. Oracle OCI AI C
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Langchain](https://img.shields.io/badge/Langchain-1C3C3C?style=for-the-badge&logo=python&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ---
 
@@ -70,6 +73,25 @@ Automated spatial ETL pipeline ingesting **5+ GB of satellite GeoTIFF data** agg
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
 → **[View repo](https://github.com/Paarth01/AeroGraphFed)**
+
+---
+
+### 🤖 DocChat — Local RAG Pipeline
+*May 2026 – Present*
+
+End-to-end RAG chatbot over private PDF collections — fully offline, 
+no API keys. Ingests and chunks unstructured documents, embeds with 
+sentence-transformers, stores in ChromaDB, and orchestrates retrieval 
+→ generation via a Langgraph StateGraph. Served through a FastAPI 
+endpoint with source-citation enforced per query.
+
+![Langchain](https://img.shields.io/badge/Langchain-1C3C3C?style=flat-square&logo=python&logoColor=white)
+![Langgraph](https://img.shields.io/badge/Langgraph-1C3C3C?style=flat-square&logo=python&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+→ **[View repo](https://github.com/Paarth01/docchat)**
 
 ---
 
@@ -152,7 +174,7 @@ Blockchain-powered platform for issuing and verifying educational credentials. L
 ## 📈 Currently
 
 - B.Tech Computer Science @ Graphic Era University — graduating **May 2027** (GPA 8.25/10)
-- Deepening expertise in **distributed systems** and **system design** at scale
+- Deepening expertise in LLM engineering, RAG pipelines, and applied ML at scale
 - Exploring **MLOps** — model serving, monitoring, and productionizing ML pipelines
 - Building **SkillChain**, working toward a testnet deployment
 
@@ -169,4 +191,4 @@ If you have a project that needs a reliable backend, a complex API, or cloud inf
 
 ---
 
-*Open to remote full-time roles, contract work, and interesting collaborations.*
+*Open to Data Science / ML Engineering internships, remote roles, and interesting collaborations.*

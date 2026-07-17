@@ -2,12 +2,12 @@
 
 <div align="center">
   
-Software engineer & AI/ML enthusiast (B.Tech CSE ’27). I build scalable ML and data systems with Python, TypeScript, and Rust. Exploring RAG, geospatial ML, and production pipelines. Open to internships & collaborations. agarwal.paarth2006@gmail.com
+Software engineer & AI/ML enthusiast (B.Tech CSE ’27). I build scalable ML and data systems with Python, TypeScript, and Rust. Exploring RAG, geospatial ML, and production pipelines. Open to internships & collaborations. agl.paarth2006@gmail.com
 
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paarth-agl)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agarwal.paarth2006@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agl.paarth2006@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paarth01)
 
 </div>
@@ -253,7 +253,7 @@ SQL         ███████████░░░░░░░  70%
 I'm always interested in **internships**, **open-source contributions**, **technical discussions**, and **project collaborations**!
 
 ### 📧 Get in Touch
-**Email:** [`agarwal.paarth2006@gmail.com`](mailto:agarwal.paarth2006@gmail.com)  
+**Email:** [`agl.paarth2006@gmail.com`](mailto:agl.paarth2006@gmail.com)  
 **LinkedIn:** [`linkedin.com/in/paarth-agl`](https://linkedin.com/in/paarth-agl)  
 **GitHub:** [`@Paarth01`](https://github.com/Paarth01)
 

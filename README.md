@@ -4,10 +4,6 @@
   
 Software engineer & AI/ML enthusiast (B.Tech CSE ’27). I build scalable ML and data systems with Python, TypeScript, and Rust. Exploring RAG, geospatial ML, and production pipelines. Open to internships & collaborations. agarwal.paarth2006@gmail.com
 
-## Short bios
-
-- LinkedIn-style: "Software engineer and AI/ML enthusiast (B.Tech CSE ’27) with experience building scalable ML and data systems using Python, TypeScript, and Rust. Focused on RAG, geospatial ML, and production pipelines. Seeking internships and collaborations. agarwal.paarth2006@gmail.com"
-
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paarth-agl)

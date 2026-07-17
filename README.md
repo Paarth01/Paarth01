@@ -116,7 +116,46 @@ SQL         ██████████████░░░░  70%
 ![GitHub Stats](https://github-readme-stats-kydd.vercel.app/api?username=Paarth01&show_icons=true&theme=radical&hide_border=true&count_private=true&card_width=495)
 ![Top Languages](https://github-readme-stats-kydd.vercel.app/api/top-langs/?username=Paarth01&theme=radical&hide_border=true&layout=compact&card_width=495)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Paarth01&theme=radical&hide_border=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Paarth01&theme=redical&hide_border=true&area=true)
+
+</div>
+
+<br>
+
+<div align="center">
+
+**📅 Activity graph — by year**
+
+<details open>
+<summary>2026</summary>
+<br>
+
+![Activity Graph 2026](https://github-readme-activity-graph.vercel.app/graph?username=Paarth01&theme=redical&hide_border=true&area=true&from=2026-01-01&to=2026-12-31&custom_title=2026%20Activity)
+
+</details>
+
+<details>
+<summary>2025</summary>
+<br>
+
+![Activity Graph 2025](https://github-readme-activity-graph.vercel.app/graph?username=Paarth01&theme=redical&hide_border=true&area=true&from=2025-01-01&to=2025-12-31&custom_title=2025%20Activity)
+
+</details>
+
+<details>
+<summary>2024</summary>
+<br>
+
+![Activity Graph 2024](https://github-readme-activity-graph.vercel.app/graph?username=Paarth01&theme=redical&hide_border=true&area=true&from=2024-01-01&to=2024-12-31&custom_title=2024%20Activity)
+
+</details>
+
+<details>
+<summary>2023</summary>
+<br>
+
+![Activity Graph 2023](https://github-readme-activity-graph.vercel.app/graph?username=Paarth01&theme=redical&hide_border=true&area=true&from=2023-01-01&to=2023-12-31&custom_title=2023%20Activity)
+
+</details>
 
 </div>
 

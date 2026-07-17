@@ -113,8 +113,15 @@ SQL         ██████████████░░░░  70%
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paarth01&show_icons=true&theme=radical&hide_border=true&count_private=true&card_width=495)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paarth01&theme=radical&hide_border=true&layout=compact&card_width=495)
+<!--
+  NOTE: these two point at your self-hosted github-readme-stats instance.
+  Deploy your fork at vercel.com, then replace YOUR-VERCEL-DOMAIN below with
+  the real domain (e.g. github-readme-stats-paarth01.vercel.app).
+  Until you deploy it, these two will 404 — swap back to the public
+  github-readme-stats.vercel.app in the meantime if you want something visible now.
+-->
+![GitHub Stats](https://YOUR-VERCEL-DOMAIN.vercel.app/api?username=Paarth01&show_icons=true&theme=radical&hide_border=true&count_private=true&card_width=495)
+![Top Languages](https://YOUR-VERCEL-DOMAIN.vercel.app/api/top-langs/?username=Paarth01&theme=radical&hide_border=true&layout=compact&card_width=495)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Paarth01&theme=radical&hide_border=true)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Paarth01&theme=redical&hide_border=true&area=true)
 
@@ -123,6 +130,8 @@ SQL         ██████████████░░░░  70%
 <br>
 
 <div align="center">
+
+🐍 **Live contribution snake** *(auto-generates once the workflow below is added to this repo)*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Paarth01/Paarth01/output/github-contribution-grid-snake-dark.svg">

@@ -124,8 +124,6 @@ SQL         ██████████████░░░░  70%
 
 <div align="center">
 
-🐍 **Live contribution snake** *(auto-generates once the workflow below is added to this repo)*
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Paarth01/Paarth01/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Paarth01/Paarth01/output/github-contribution-grid-snake.svg">

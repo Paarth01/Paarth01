@@ -115,6 +115,18 @@ SQL         ██████████████░░░░  70%
 
 ![GitHub Stats](https://github-readme-stats-kydd.vercel.app/api?username=Paarth01&show_icons=true&theme=radical&hide_border=true&count_private=true&card_width=495)
 ![Top Languages](https://github-readme-stats-kydd.vercel.app/api/top-langs/?username=Paarth01&theme=radical&hide_border=true&layout=compact&card_width=495)
+
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://vaunt.dev">
+    <img src="https://api.vaunt.dev/v1/github/entities/Paarth01/contributions?format=svg&private=true" width="600" />
+  </a>
+</p>
+
+<div align="center">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Paarth01&theme=radical&hide_border=true)
 
 </div>
